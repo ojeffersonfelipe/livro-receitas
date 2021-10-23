@@ -2,4 +2,5 @@
 
 Olá! Bem vindo ao meu livro de receitas
 
-- Buchada de bdoe
+- Buchada de bode
+- Cangaço da pentcha
